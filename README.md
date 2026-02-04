@@ -48,6 +48,7 @@ Project Steps
 7. Summarized insights in a report and presentation using Gamma
 
 Dashboard
+(*screenshot of the dashboard are included in this repository*)
 The Power BI dashboard highlights:
 a.Customer segmentation
 
