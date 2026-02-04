@@ -4,10 +4,12 @@
 *Data Analytics Project – Customer Behavior Analysis*
 
 Overview
+
 This project focuses on analyzing customer behavior to uncover meaningful insights that support data-driven business decisions. It demonstrates an end-to-end data analytics workflow, starting from raw data loading to insight presentation using dashboards and reports. 
 The project involves data processing in Python, querying structured data using SQL databases, visualizing insights in Power BI, and communicating results through a report and presentation.
 
 Dataset
+
 * The dataset contains customer-related information such as demographics, purchase history, transaction details, and product categories.
 
 * Data is used for analysis purposes only.
@@ -27,6 +29,7 @@ Excel / CSV: Dataset storage and validation
 
 
 Project Steps
+
 1. Loaded the dataset into Python using libraries such as Pandas and NumPy
 
 
