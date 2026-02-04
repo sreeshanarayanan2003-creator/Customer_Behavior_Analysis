@@ -49,7 +49,9 @@ Project Steps
 
 Dashboard
 (*screenshot of the dashboard are included in this repository*)
+
 The Power BI dashboard highlights:
+
 a.Customer segmentation
 
 b.Purchase frequency and trends
