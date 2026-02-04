@@ -65,6 +65,7 @@ e.Time-based sales insights
 
 
 Results & Insights
+
 Identified key customer segments based on purchasing behavior
 
 Highlighted top-performing products and categories
@@ -75,5 +76,7 @@ Provided actionable insights to improve customer retention and sales strategy
 
 
  Author:
+ 
       Sreesha
+      
       Aspiring Data Analyst
